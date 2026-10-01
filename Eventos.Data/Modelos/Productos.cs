@@ -12,8 +12,9 @@ namespace Eventos.Data.Modelos
         [Required]
         public string Nombre { get; set; } = string.Empty;
         public decimal Precio { get; set; }
-        public decimal PesoGramos { get; set; } 
+        public double PesoGramos { get; set; } 
         public int IdCategoria { get; set; }
+
         [ForeignKey("IdCategoria")]
         public Categoria? Categoria { get; set; }
     }
