@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1733449C-223C-441A-AEAB-7025424D234C}|Eventos.Data\\Eventos.Data.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.data\\modelos\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1733449C-223C-441A-AEAB-7025424D234C}|Eventos.Data\\Eventos.Data.csproj|solutionrelative:eventos.data\\modelos\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE0FB095-1182-41DD-B3BE-E2C0DA4E6F93}|Eventos.Web\\Eventos.Web.csproj|solutionrelative:eventos.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1733449C-223C-441A-AEAB-7025424D234C}|Eventos.Data\\Eventos.Data.csproj|c:\\users\\alexis\\desktop\\unlz\\programacion 4\\modelounlz\\eventos.data\\inyecciones\\inyecciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1733449C-223C-441A-AEAB-7025424D234C}|Eventos.Data\\Eventos.Data.csproj|solutionrelative:eventos.data\\inyecciones\\inyecciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Eventos.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Eventos.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T14:46:41.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Eventos.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Eventos.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T14:46:36.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eventos.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eventos.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T14:43:41.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Data\\Modelos\\Productos.cs",
+              "RelativeDocumentMoniker": "Eventos.Data\\Modelos\\Productos.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Data\\Modelos\\Productos.cs",
+              "RelativeToolTip": "Eventos.Data\\Modelos\\Productos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:27:16.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Productos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Eventos.Web\\Views\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Productos\\Edit.cshtml",
+              "RelativeToolTip": "Eventos.Web\\Views\\Productos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T14:07:29.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Productos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Eventos.Web\\Views\\Productos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Productos\\Details.cshtml",
+              "RelativeToolTip": "Eventos.Web\\Views\\Productos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T14:07:25.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Eventos.Web\\Views\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "Eventos.Web\\Views\\Productos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T14:06:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Eventos.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Eventos.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:04:09.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Eventos.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Eventos.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T13:58:16.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Eventos.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Eventos.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T13:58:11.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Eventos.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Program.cs",
+              "RelativeToolTip": "Eventos.Web\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:55:51.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Eventos.Web\\Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "Eventos.Web\\Views\\Productos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T13:48:36.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eventos.Web\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Eventos.Web\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T13:40:18.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Eventos.Web\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Eventos.Web\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:32:45.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Inyecciones.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Data\\Inyecciones\\Inyecciones.cs",
+              "RelativeDocumentMoniker": "Eventos.Data\\Inyecciones\\Inyecciones.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Data\\Inyecciones\\Inyecciones.cs",
+              "RelativeToolTip": "Eventos.Data\\Inyecciones\\Inyecciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:29:32.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Eventos.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alexis\\Desktop\\UNLZ\\Programacion 4\\ModeloUNLZ\\Eventos.Web\\appsettings.json",
+              "RelativeToolTip": "Eventos.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-01T13:27:05.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

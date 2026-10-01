@@ -1,0 +1,57 @@
+﻿@model Eventos.Data.Modelos.Producto
+
+@{
+    ViewData["Title"] = "Crear Producto";
+    // Solucionado: Validamos si ViewBag.Mensaje es nulo antes de invocar ToString()
+    string resultadomsj = ViewBag.Mensaje != null ? ViewBag.Mensaje.ToString() : string.Empty;
+}
+
+<div class="container mt-4">
+    <h2>Registrar Nuevo Producto - Minimercado</h2>
+
+    <form asp-action="Create" method="post" class="mt-3">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="mb-3">
+            <label asp-for="Nombre" class="form-label"></label>
+            <input asp-for="Nombre" class="form-control" />
+            <span asp-validation-for="Nombre" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Precio" class="form-label"></label>
+            <input asp-for="Precio" class="form-control" />
+            <span asp-validation-for="Precio" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="PesoGramos" class="form-label">Peso (Gramos)</label>
+            <input asp-for="PesoGramos" class="form-control" />
+            <span asp-validation-for="PesoGramos" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="IdCategoria" class="form-label">Categoría</label>
+            <select asp-for="IdCategoria" class="form-control" asp-items="ViewBag.Categorias">
+                <option value="">-- Seleccione una categoría --</option>
+            </select>
+            <span asp-validation-for="IdCategoria" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">Guardar Producto</button>
+        <a asp-action="Index" class="btn btn-secondary">Volver al Listado</a>
+    </form>
+
+    @if (!String.IsNullOrEmpty(resultadomsj))
+    {
+        <div class="alert alert-info mt-3">
+            @resultadomsj
+        </div>
+    }
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

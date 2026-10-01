@@ -1,0 +1,13 @@
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\bin\Debug\net10.0\Eventos.Data.deps.json
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\bin\Debug\net10.0\Eventos.Data.dll
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\bin\Debug\net10.0\Eventos.Data.pdb
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\Eventos.Data.csproj.AssemblyReference.cache
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\Eventos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\Eventos.Data.AssemblyInfoInputs.cache
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\Eventos.Data.AssemblyInfo.cs
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\Eventos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\Eventos.Data.sourcelink.json
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\Eventos.Data.dll
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\refint\Eventos.Data.dll
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\Eventos.Data.pdb
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\ref\Eventos.Data.dll
