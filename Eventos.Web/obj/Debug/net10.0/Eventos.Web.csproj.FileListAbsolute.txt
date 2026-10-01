@@ -226,6 +226,7 @@ C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Web\obj\Debug\net
 C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Web\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Web\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Web\obj\Debug\net10.0\Eventos..3DE608B0.Up2Date
 C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Web\obj\Debug\net10.0\Eventos.Web.dll
 C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Web\obj\Debug\net10.0\refint\Eventos.Web.dll

@@ -11,3 +11,4 @@ C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\ne
 C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\refint\Eventos.Data.dll
 C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\Eventos.Data.pdb
 C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\ref\Eventos.Data.dll
+C:\Users\Alexis\Desktop\UNLZ\Programacion 4\ModeloUNLZ\Eventos.Data\obj\Debug\net10.0\Eventos..664B1E7D.Up2Date

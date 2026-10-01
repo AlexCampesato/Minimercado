@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="Eventos.Data/Eventos.Data.csproj" />
+  <Project Path="Eventos.Web/Eventos.Web.csproj" />
+</Solution>

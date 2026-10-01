@@ -17,7 +17,6 @@ using (var scope = app.Services.CreateScope())
     var services = scope.ServiceProvider;
     var context = services.GetRequiredService<EventosContext>();
 
-    // Si no hay categorías, las creamos automáticamente
     if (!context.Categorias.Any())
     {
         context.Categorias.AddRange(

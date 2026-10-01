@@ -1,6 +1,6 @@
-[Bb]in/
-[Oo]bj/
+# .NET Core / Visual Studio
+bin/
+obj/
 .vs/
 *.user
 *.suo
-*.db
