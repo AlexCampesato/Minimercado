@@ -2,7 +2,7 @@
 
 @{
     ViewData["Title"] = "Crear Producto";
-    // Solucionado: Validamos si ViewBag.Mensaje es nulo antes de invocar ToString()
+
     string resultadomsj = ViewBag.Mensaje != null ? ViewBag.Mensaje.ToString() : string.Empty;
 }
 
@@ -28,6 +28,12 @@
             <label asp-for="PesoGramos" class="form-label">Peso (Gramos)</label>
             <input asp-for="PesoGramos" class="form-control" />
             <span asp-validation-for="PesoGramos" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Stock" class="control-label">Stock</label>
+            <input asp-for="Stock" class="form-control" />
+            <span asp-validation-for="Stock" class="text-danger"></span>
         </div>
 
         <div class="mb-3">

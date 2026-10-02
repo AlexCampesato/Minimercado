@@ -38,6 +38,7 @@ namespace Eventos.Web.Controllers
             {
                 _context.Add(producto);
                 await _context.SaveChangesAsync();
+                TempData["Mensaje"] = "¡El producto se creó correctamente!";
                 return RedirectToAction(nameof(Index));
             }
             ViewBag.Categorias = new SelectList(_context.Categorias, "Id", "Nombre", producto.IdCategoria);
@@ -58,12 +59,11 @@ namespace Eventos.Web.Controllers
                 return NotFound();
             }
 
-            // Cargamos las categorías para el desplegable
             ViewBag.Categorias = new SelectList(_context.Categorias, "Id", "Nombre", producto.IdCategoria);
             return View(producto);
         }
 
-        // POST: Productos/Edit/5
+        // POST: Productos/Edit/
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Producto productoViewModel)
@@ -77,7 +77,6 @@ namespace Eventos.Web.Controllers
             {
                 try
                 {
-                    // Buscamos el producto real en la base de datos para no pisar campos vacíos
                     var productoOriginal = await _context.Productos.FindAsync(id);
 
                     if (productoOriginal == null)
@@ -85,10 +84,10 @@ namespace Eventos.Web.Controllers
                         return NotFound();
                     }
 
-                    // Actualizamos únicamente los campos editables
                     productoOriginal.Nombre = productoViewModel.Nombre;
                     productoOriginal.Precio = productoViewModel.Precio;
                     productoOriginal.PesoGramos = productoViewModel.PesoGramos;
+                    productoOriginal.Stock = productoViewModel.Stock;
                     productoOriginal.IdCategoria = productoViewModel.IdCategoria;
 
                     await _context.SaveChangesAsync();
@@ -105,7 +104,6 @@ namespace Eventos.Web.Controllers
                     }
                 }
 
-                // Redirección limpia al listado principal
                 return RedirectToAction(nameof(Index));
             }
 

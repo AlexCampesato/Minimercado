@@ -9,7 +9,6 @@ namespace Eventos.Data.Db
         {
         }
 
-        // Estas son las tablas que Entity Framework creará en tu base de datos para el minimercado
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Producto> Productos { get; set; }
     }
