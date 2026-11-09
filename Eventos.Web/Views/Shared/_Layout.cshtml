@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using Eventos.Web.Helpers
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="utf-8" />
@@ -13,24 +14,60 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <!-- Marca principal que lleva al listado de productos -->
-                <a class="navbar-brand" asp-area="" asp-controller="Productos" asp-action="Index">Minimercado</a>
-
+                <a class="navbar-brand" asp-area="" asp-controller="Productos" asp-action="Index">Eventos.Web</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <!-- Enlace al listado de productos -->
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Productos" asp-action="Index">Productos</a>
+                            <a class="nav-link text-dark" asp-controller="Productos" asp-action="Index">Productos</a>
                         </li>
-                        <!-- Enlace para registrar un nuevo producto -->
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Productos" asp-action="Create">Nuevo Producto</a>
-                        </li>
+
+                        @if (User.IsInRole("Administrador"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Productos" asp-action="Create">Nuevo Producto</a>
+                            </li>
+                        }
+                    </ul>
+
+                    <ul class="navbar-nav ms-auto align-items-center">
+                        @if (User.Identity != null && User.Identity.IsAuthenticated)
+                        {
+                            @if (User.IsInRole("Cliente"))
+                            {
+                                <li class="nav-item me-3">
+                                    @{
+                                        var carritoNav = Context.Session.GetObjectFromJson<List<Eventos.Web.Models.ItemCarrito>>("CarritoCompras");
+                                        int totalItems = carritoNav?.Sum(x => x.Cantidad) ?? 0;
+                                    }
+                                    <a class="nav-link text-dark position-relative" asp-controller="Carrito" asp-action="Index">
+                                        🛒 Carrito
+                                        @if (totalItems > 0)
+                                        {
+                                            <span class="position-absolute top-25 start-100 translate-middle badge rounded-pill bg-danger">
+                                                @totalItems
+                                            </span>
+                                        }
+                                    </a>
+                                </li>
+                            }
+
+                            <li class="nav-item">
+                                <span class="nav-link text-muted">@User.Identity.Name</span>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-danger" asp-controller="Account" asp-action="Logout">Salir</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-primary" asp-controller="Account" asp-action="Login">Iniciar sesión</a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>
